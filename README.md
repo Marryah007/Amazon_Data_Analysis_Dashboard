@@ -47,6 +47,14 @@
 
 ### •	Merge all pivot tables into one dashboard and apply slicers to make dynamic interactive filters for reports, allowing users to easily filter data and explore different views of the information.
 
+## Project Insight
+
+### •	Products with 50% or more discount influences Customers’ decisions.
+
+### •	A good review with a positive rating help others to make informed decisions.
+
+### •	The maximum number of products customer orders from Amazon.
+
 
 
 
