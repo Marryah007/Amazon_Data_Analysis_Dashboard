@@ -56,6 +56,8 @@
 
 •	The maximum number of products customer orders from Amazon.
 
+## Dashboard
 
+![Screenshot Amazon Product Review Dashboard](https://github.com/user-attachments/assets/44b03887-27e6-4ae3-b33f-aeb8cf3c7c99)
 
 
