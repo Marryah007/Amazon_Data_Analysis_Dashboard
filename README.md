@@ -36,7 +36,7 @@
 
 •	Identify the top 5 products in terms of rating and number of reviews combined.
 
-'">Dashboard</a>'
+' <a href="https://github.com/Marryah007/Amazon_Data_Analysis_Dashboard/blob/main/Screenshot%20Amazon%20Product%20Review%20Dashboard.png">' Dashboard</a>'
 
 ## Process
 
