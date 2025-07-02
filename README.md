@@ -1,2 +1,5 @@
-# Amazon_Data_Analysis_Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved data preprocessing, data cleaning and visualization.
+Amazon Store Data Analysis (Interactive Dashboard Created Using Ms Excel)
+
+Project Objective
+
+Amazon Store wants to understand what influence the purchasing decisions, how to boast sales, and how to gain deeper insights into how customers feel about the products.
