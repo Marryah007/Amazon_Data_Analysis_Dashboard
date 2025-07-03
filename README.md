@@ -4,7 +4,6 @@
 
 ### Amazon Store wants to understand what influence the purchasing decisions, how to boast sales, and how to gain deeper insights into how customers feel about the products.
 ## Dataset Used
-'<a href="https://github.com/Marryah007/Amazon_Data_Analysis_Dashboard/blob/main/Amazon%20Product%20Review.xlsx">Dataset</a>'
 
 ## Questions (KPIs)
 
@@ -36,7 +35,6 @@
 
 •	Identify the top 5 products in terms of rating and number of reviews combined.
 
-' <a href="https://github.com/Marryah007/Amazon_Data_Analysis_Dashboard/blob/main/Screenshot%20Amazon%20Product%20Review%20Dashboard.png">' Dashboard</a>'
 
 ## Process
 
