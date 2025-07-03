@@ -4,7 +4,7 @@
 
 ### Amazon Store wants to understand what influence the purchasing decisions, how to boast sales, and how to gain deeper insights into how customers feel about the products.
 ## Dataset Used
-' <a href="https://github.com/Marryah007/Amazon_Data_Analysis_Dashboard/blob/main/Amazon%20Product%20Review.xlsx">'Dataset</a>
+' <a href="https://github.com/Marryah007/Amazon_Data_Analysis_Dashboard/blob/main/Amazon%20Product%20Review.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 
@@ -36,6 +36,7 @@
 
 •	Identify the top 5 products in terms of rating and number of reviews combined.
 
+' <a href="https://github.com/Marryah007/Amazon_Data_Analysis_Dashboard/blob/main/Screenshot%202025-07-04%20010641.png">'Dashboard <a/>
 
 ## Process
 
@@ -48,8 +49,6 @@
 •	Merge all pivot tables into one dashboard and apply slicers to make dynamic interactive filters for reports, allowing users to easily filter data and explore different views of the information.
 
 ## Dashboard
-
-![Screenshot Amazon Product Review Dashboard](https://github.com/user-attachments/assets/44b03887-27e6-4ae3-b33f-aeb8cf3c7c99)
 
 ## Project Insight
 
