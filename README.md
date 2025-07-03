@@ -49,6 +49,8 @@
 •	Merge all pivot tables into one dashboard and apply slicers to make dynamic interactive filters for reports, allowing users to easily filter data and explore different views of the information.
 
 ## Dashboard
+![Screenshot 2025-07-04 010641](https://github.com/user-attachments/assets/91377832-5cfb-4103-9a7a-bf6e2f4477ac)
+
 
 ## Project Insight
 
