@@ -46,6 +46,7 @@ This encompasses the systematic approach or techniques used to manage, analyze, 
 Here's a more detailed breakdown:
 
 Calculations & Formulas
+
 1.Potential Revenue:
 =IF(AND(ISNUMBER(E2),ISNUMBER(H2)),E2*H2,0)
 
@@ -77,7 +78,6 @@ Restrict the type of data that can be entered into a cell, ensuring data accurac
 
 5.Named Ranges:
 Assign meaningful names to cells or ranges of cells, making formulas easier to read and understand (e.g., naming cell K1 as "Potential Revenue").
-
 
 
 ## Process
