@@ -47,14 +47,16 @@ Here's a more detailed breakdown:
 
 Calculations & Formulas
 
-1.Potential Revenue:
+•	1.Potential Revenue:
 =IF(AND(ISNUMBER(E2),ISNUMBER(H2)),E2*H2,0)
 
-2.Review Count
+•	2.Review Count
 =LEN(I2)-LEN(SUBSTITUTE(I2,",",""))+1
 
-3.Price Range Bucket
+•	3.Price Range Bucket
 =IF(E2<20000," <£20000 ",IF(E2<=39999," £20000-£39999 ",IF(E2<=59999, " £40000-£59999 ", IF(E2<=79999, "£ 60000-£79999 ", ">£80000 "))))
+
+
 
 4.High Discount
 =IF(F2>=50%, " Yes ", " No ")
