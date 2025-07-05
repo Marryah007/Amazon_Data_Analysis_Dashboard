@@ -1,4 +1,4 @@
-# Amazon Store Data Analysis (Interactive Dashboard Created Using Ms Excel)
+# Amazon Product Review Analysis
 
 ## Project Objective
 
