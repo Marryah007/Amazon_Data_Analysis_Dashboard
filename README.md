@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-Amazon product review is to identify the factors that influence purchasing decisions, provides strategies to boost sales, and offers valuable insights into customer perceptions of the products.
+This project aim is to identify the factors that influence purchasing decisions, provides strategies to boost sales, and offers valuable insights into customer perceptions of the products.
 
 ## Dataset Used
 ' <a href="https://github.com/Marryah007/Amazon_Data_Analysis_Dashboard/blob/main/Amazon%20Product%20Review.xlsx">Dataset</a>
